@@ -1,7 +1,8 @@
+
 * {
-    background-color: bisque;
-    color:rgb(79, 23, 107);
-    font-family: Garamond, "Brush Script MT", sans-serif;
+    background-color: black;
+    color: #BB0000;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1, h2, p, a {
