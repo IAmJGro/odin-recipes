@@ -1,0 +1,27 @@
+* {
+    background-color: bisque;
+    color:rgb(79, 23, 107);
+}
+
+h1, h2, p, a {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h1, h2, p, img, li, a{
+    font-family: Garamond, "Brush Script MT", sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.dark-souls {
+    background-color: black;
+    color: #BB0000;
+    font-family: 'Courier New', Courier, monospace;
+}
