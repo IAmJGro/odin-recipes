@@ -4,13 +4,15 @@
     font-family: Garamond, "Brush Script MT", sans-serif;
 }
 
-h1, h2, p, a {
+h1, h2, a {
     text-align: center;
 }
 
-img {
+img{
     height: auto;
     width: 600px;
+    display: block;
+    margin: 0 auto;
 }
 
 h1 {
@@ -21,4 +23,9 @@ h1 {
 h2 {
     font-weight: bold;
     font-size: 24px;
+}
+
+.centered {
+    width: 800px;
+    margin: 0 auto;
 }
